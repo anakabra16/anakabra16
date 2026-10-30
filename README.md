@@ -15,21 +15,26 @@
 ## 💗 About Me
 
 ```python
-class Anny:
+class Ana:
     def __init__(self):
         self.role = "Computer Science Student 🎓"
+
         self.interests = [
             "Cybersecurity 🔐",
             "Programming 💻",
             "Networking 🌐",
             "Linux 🐧"
         ]
-        self.currently_learning = "how computers break... and how to fix them ✨"
+
+        self.currently_learning = (
+            "how computers break... and how to fix them ✨"
+        )
 
     def say_hi(self):
         print("Thanks for visiting my GitHub! 🎀")
 
-me = Anny()
+
+me = Ana()
 me.say_hi()
 ```
 
@@ -45,7 +50,7 @@ me.say_hi()
 
 💻 Improving my **Programming & DSA**
 
-🧪 Building my own **cybersecurity labs**
+🧪 Building my own **Cybersecurity Labs**
 
 ✨ Creating projects instead of just watching tutorials
 
@@ -75,7 +80,7 @@ me.say_hi()
 ## 🔐 Cybersecurity Corner
 
 ```text
-┌──(anny㉿kali)-[~/github]
+┌──(ana㉿kali)-[~/github]
 └─$ whoami
 
 🎀 CS Student
@@ -103,13 +108,48 @@ Coffee Consumption   ██████████  Critical ☕
 
 ---
 
+<div align="center">
+
+## 👾 My Contribution Arcade 🎀
+
+*Pac-Man eating my contributions one commit at a time...* 💗
+
+<br>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/anakabra16/anakabra16/gh-pages/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/anakabra16/anakabra16/gh-pages/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="Pac-Man Contribution Graph"
+    src="https://raw.githubusercontent.com/anakabra16/anakabra16/gh-pages/pacman-contribution-graph.svg"
+  />
+</picture>
+
+<br>
+
+🌸 *feeding Pac-Man one commit at a time* 🌸
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=anakabra16&show_icons=true&theme=radical&hide_border=true" />
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=anakabra16&theme=radical&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anakabra16&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
@@ -118,13 +158,16 @@ Coffee Consumption   ██████████  Critical ☕
 ## 💕 Featured Projects
 
 ### 🔐 Cybersecurity Lab
-My experiments, notes, networking exercises and security labs.
+
+My experiments, notes, networking exercises, and security labs.
 
 ### 💻 CS Projects
+
 Projects I'm building while learning programming and computer science.
 
 ### 🐧 Linux Adventures
-Commands, scripts and things I've learned while exploring Linux.
+
+Commands, scripts, and things I've learned while exploring Linux.
 
 > 🌷 *More projects loading... because apparently `git commit` doesn't do itself.*
 
@@ -151,6 +194,8 @@ while(alive) {
 
 ✨ *stay curious • keep building • make it pretty* 🎀
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=ff69b4&style=for-the-badge&label=CUTE+VISITORS)
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=anakabra16&color=ff69b4&style=for-the-badge&label=CUTE+VISITORS)
 
 </div>
